@@ -1,4 +1,4 @@
-##1 Subject: 
+1 Subject: 
 
 programming
 Jordan Salazar and Santiago Gualotuña
